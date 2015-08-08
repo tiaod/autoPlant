@@ -3,6 +3,7 @@
 http://www.guokr.com/post/694718/
 
 使用到的库有：
+
 温湿度模块：
 https://github.com/adafruit/DHT-sensor-library
 
@@ -20,7 +21,7 @@ http://www.pjrc.com/teensy/td_libs_TimeAlarms.html
 #define SOIL_HUMIDITY_PIN A1 //土壤湿度模块
 ```
 
-用户自定义设置：
+用户自定义设置
 ```
 #define CHECK_INTERVAL 9600 //检查土壤湿度间隔的秒数(9600秒=3小时一次)
 #define MAX_SOIL_HUMIDITY 600 //土壤的湿度阈值（大于这个值就会浇水）
