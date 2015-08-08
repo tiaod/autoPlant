@@ -1,4 +1,7 @@
 # 自动浇花系统
+制作过程：
+http://www.guokr.com/post/694718/
+
 使用到的库有：
 温湿度模块：
 https://github.com/adafruit/DHT-sensor-library
